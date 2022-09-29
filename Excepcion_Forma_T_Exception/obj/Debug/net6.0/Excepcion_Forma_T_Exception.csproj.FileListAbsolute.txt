@@ -1,0 +1,15 @@
+C:\Users\abela\source\repos\Excepcion_Forma_T_Exception\Excepcion_Forma_T_Exception\obj\Debug\net6.0\Excepcion_Forma_T_Exception.csproj.AssemblyReference.cache
+C:\Users\abela\source\repos\Excepcion_Forma_T_Exception\Excepcion_Forma_T_Exception\obj\Debug\net6.0\Excepcion_Forma_T_Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abela\source\repos\Excepcion_Forma_T_Exception\Excepcion_Forma_T_Exception\obj\Debug\net6.0\Excepcion_Forma_T_Exception.AssemblyInfoInputs.cache
+C:\Users\abela\source\repos\Excepcion_Forma_T_Exception\Excepcion_Forma_T_Exception\obj\Debug\net6.0\Excepcion_Forma_T_Exception.AssemblyInfo.cs
+C:\Users\abela\source\repos\Excepcion_Forma_T_Exception\Excepcion_Forma_T_Exception\obj\Debug\net6.0\Excepcion_Forma_T_Exception.csproj.CoreCompileInputs.cache
+C:\Users\abela\source\repos\Excepcion_Forma_T_Exception\Excepcion_Forma_T_Exception\bin\Debug\net6.0\Excepcion_Forma_T_Exception.exe
+C:\Users\abela\source\repos\Excepcion_Forma_T_Exception\Excepcion_Forma_T_Exception\bin\Debug\net6.0\Excepcion_Forma_T_Exception.deps.json
+C:\Users\abela\source\repos\Excepcion_Forma_T_Exception\Excepcion_Forma_T_Exception\bin\Debug\net6.0\Excepcion_Forma_T_Exception.runtimeconfig.json
+C:\Users\abela\source\repos\Excepcion_Forma_T_Exception\Excepcion_Forma_T_Exception\bin\Debug\net6.0\Excepcion_Forma_T_Exception.dll
+C:\Users\abela\source\repos\Excepcion_Forma_T_Exception\Excepcion_Forma_T_Exception\bin\Debug\net6.0\Excepcion_Forma_T_Exception.pdb
+C:\Users\abela\source\repos\Excepcion_Forma_T_Exception\Excepcion_Forma_T_Exception\obj\Debug\net6.0\Excepcion_Forma_T_Exception.dll
+C:\Users\abela\source\repos\Excepcion_Forma_T_Exception\Excepcion_Forma_T_Exception\obj\Debug\net6.0\refint\Excepcion_Forma_T_Exception.dll
+C:\Users\abela\source\repos\Excepcion_Forma_T_Exception\Excepcion_Forma_T_Exception\obj\Debug\net6.0\Excepcion_Forma_T_Exception.pdb
+C:\Users\abela\source\repos\Excepcion_Forma_T_Exception\Excepcion_Forma_T_Exception\obj\Debug\net6.0\Excepcion_Forma_T_Exception.genruntimeconfig.cache
+C:\Users\abela\source\repos\Excepcion_Forma_T_Exception\Excepcion_Forma_T_Exception\obj\Debug\net6.0\ref\Excepcion_Forma_T_Exception.dll
